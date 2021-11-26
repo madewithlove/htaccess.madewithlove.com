@@ -1,4 +1,4 @@
 htaccess.madewithlove.com
 =========================
 
-Issues with our htaccess tester
+Issue tracker for https://htaccess.madewithlove.com/
